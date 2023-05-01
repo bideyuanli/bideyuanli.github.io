@@ -1,0 +1,12 @@
+{
+    "applinks": {
+        "details": [
+            {
+                "appID": "com.bideyuanli.d4",
+                "paths": [
+                    "*"
+                ]
+            }
+        ]
+    }
+}
